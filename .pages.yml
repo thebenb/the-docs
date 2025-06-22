@@ -7,7 +7,7 @@ content:
   - name: docs
     label: Documentation
     type: collection
-    path: '*/*'
+    path: 'files/'
     view:
       fields: [ title, lastModified ]
     fields:
