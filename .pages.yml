@@ -7,7 +7,7 @@ content:
   - name: docs
     label: Documentation
     type: collection
-    path: '*/index.md'
+    path: '/'
     view:
       fields: [ title, lastModified ]
     fields:
