@@ -1,3 +1,6 @@
+---
+title: Video Editing Software
+---
 # Editing Software
 
 "What editing software should I use?"
@@ -14,7 +17,7 @@ The sidebar can be used as an index / table of contents.
 
 **Price:** FREE (Forever) / $295 USD (Buy once, own forever)
 
-If you've got a computer, my go-to recommendation is Davinci Resolve. It'll run *okay* on most systems, and has a robust free version that is more than enough to get you millions of subscribers. It runs on Windows, Mac, and Linux and has a massive community around it. There are unique tabs for different parts of the creation process (Assembly, Editing, Effects, Audio, Colour Grading) which are all extremely powerful.
+If you've got a computer, my go-to recommendation is Davinci Resolve. It'll run _okay_ on most systems, and has a robust free version that is more than enough to get you millions of subscribers. It runs on Windows, Mac, and Linux and has a massive community around it. There are unique tabs for different parts of the creation process (Assembly, Editing, Effects, Audio, Colour Grading) which are all extremely powerful.
 
 I think it's pretty easy to use (but like all editors, a little overwhelming for absolute beginners) but also has an incredibly high skill ceiling. It's literally an industry standard for colour grading, and is plenty for any YouTuber.
 
@@ -40,7 +43,7 @@ The only / main reason I wouldn't recommend Premiere is the cost, but if you're 
 
 **Price:** ~$$499.99 USD (Buy once, own forever)
 
-Very popular software with a unique "magnetic timeline" workflow. It's incredibly powerful and can handle a lot of edits. Due to my lack of ownership of a Mac, I have not personally tried this software. 
+Very popular software with a unique "magnetic timeline" workflow. It's incredibly powerful and can handle a lot of edits. Due to my lack of ownership of a Mac, I have not personally tried this software.
 
 ### iMovie
 
@@ -59,7 +62,6 @@ Great for beginners, and is probably already installed if you own an Apple Devic
 **Price:** FREE (Forever)
 
 Completely Open-Source video editor with capabilities that try to compete with the "big guys". Worth trying if you want something free.
-
 
 ### CapCut
 
@@ -94,7 +96,6 @@ Personally, I'm not a fan of it. It's quite limiting when you want to do more ad
 [Link](https://www.apple.com/imovie/)
 
 Simple and easy to use, and will run on your Apple Mobile Devices. Comes with some stock tracks and effects which are good enough to learn the fundamentals. Powerful enough to make good videos.
-
 
 ## Other Video Editing tools
 
@@ -150,8 +151,8 @@ While trusted by many, I'm not the biggest fan of it (I prefer [Shutter Encoder]
 
 ## Other Software I'd like some help writing about
 
-- Vegas Pro
-- Openshot
-- Shotcut
-- Hitfilm
-- Any other software I haven't mentioned yet in reasonable detail
+*   Vegas Pro
+*   Openshot
+*   Shotcut
+*   Hitfilm
+*   Any other software I haven't mentioned yet in reasonable detail
