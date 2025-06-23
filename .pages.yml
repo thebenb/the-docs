@@ -15,9 +15,9 @@ content:
       - { name: lastModified, label: Last Modified, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
       - { name: body, label: Body, type: rich-text }
   - name: thedocs
-    label: 'The Docs'
+    label: 'Projects'
     type: collection
-    path: 'The Docs'
+    path: 'Projects'
     view:
       fields: [ title, lastModified ]
     fields:
