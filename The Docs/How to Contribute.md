@@ -100,13 +100,29 @@ The above markdown explanation was written by AI, but was proofread and adjusted
 
 You can use:
 
-:::note This is a note. :::
+:::note
 
-:::tip This is a tip. :::
+This is a note.
 
-:::warning This is a warning. :::
+:::
 
-:::danger This is a danger. :::
+:::tip 
+
+This is a tip. 
+
+:::
+
+:::warning 
+
+This is a warning. 
+
+:::
+
+:::danger 
+
+This is a danger. 
+
+:::
 
 Use them when you want to highlight something important or make a page easier to scan.
 
