@@ -5,9 +5,9 @@ media:
 
 content:
   - name: docs
-    label: Documentation
+    label: 'Content Creation'
     type: collection
-    path: 'files'
+    path: 'Content Creation'
     view:
       fields: [ title, lastModified ]
     fields:
