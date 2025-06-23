@@ -4,10 +4,20 @@ media:
   categories: [ "image" ]
 
 content:
-  - name: docs
+  - name: contentcreation
     label: 'Content Creation'
     type: collection
     path: 'Content Creation'
+    view:
+      fields: [ title, lastModified ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: lastModified, label: Last Modified, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
+      - { name: body, label: Body, type: rich-text }
+  - name: thedocs
+    label: 'The Docs'
+    type: collection
+    path: 'The Docs'
     view:
       fields: [ title, lastModified ]
     fields:
