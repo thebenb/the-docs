@@ -24,3 +24,14 @@ content:
       - { name: title, label: Title, type: string, required: true }
       - { name: lastModified, label: Last Modified, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
       - { name: body, label: Body, type: rich-text }
+  - name: blog
+    label: 'Blog'
+    type: collection
+    path: 'Blog'
+    view:
+      fields: [ title, lastModified ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: datePosted, label: Date Posted, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
+      - { name: lastModified, label: Last Modified, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
+      - { name: body, label: Body, type: rich-text }
