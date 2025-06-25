@@ -1,6 +1,6 @@
 ---
 title: How to Contribute
-lastModified: 2025-06-18T14:37:00.000Z
+lastModified: 2025-06-25T10:58:00.000Z
 ---
 # How to Contribute
 
@@ -140,7 +140,6 @@ If you're fancy and would like to insert images, videos, etc. in your submission
 ```md
 
 ![](/media/your_image.png)
-
 ```
 
 GitHub typically doesn't like file submissions over 25MB, and realistically, we shouldn't be subjecting viewers to such big files anyway.
