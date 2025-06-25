@@ -14,6 +14,7 @@ content:
       - { name: title, label: Title, type: string, required: true }
       - { name: lastModified, label: Last Modified, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
       - { name: body, label: Body, type: rich-text }
+    filename: '{primary}.md'
   - name: thedocs
     label: 'Projects'
     type: collection
@@ -24,6 +25,7 @@ content:
       - { name: title, label: Title, type: string, required: true }
       - { name: lastModified, label: Last Modified, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
       - { name: body, label: Body, type: rich-text }
+    filename: '{primary}.md'
   - name: blog
     label: 'Blog'
     type: collection
