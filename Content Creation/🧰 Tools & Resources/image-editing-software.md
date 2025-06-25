@@ -1,3 +1,6 @@
+---
+title: Image editing software
+---
 # Image editing software
 
 "What should I use to make thumbnails?"
@@ -7,6 +10,7 @@ I'm a Photoshop guy through and through, but there are plenty of alternatives th
 ## Free
 
 ### Paint.NET
+
 [Link](https://www.getpaint.net/)
 
 **OS:** Windows
@@ -14,6 +18,7 @@ I'm a Photoshop guy through and through, but there are plenty of alternatives th
 Great alternative to Photoshop that I grew up with. Relatively simple to use and powerful enough to handle your thumbnail creation needs.
 
 ### PhotoPea
+
 [Link](https://www.photopea.com/)
 
 **OS:** Windows, Mac, Linux... Basically anything with a modern browser.
@@ -26,9 +31,9 @@ It's like Photoshop... in your browser! Similar to [Pixlr](#pixlr)
 
 **OS:** Windows, Mac, Linux
 
-Very powerful image editor. 
+Very powerful image editor.
 
-It's like Free Photoshop basically, but many people find the UI confusing / difficult. 
+It's like Free Photoshop basically, but many people find the UI confusing / difficult.
 
 ### Pixlr
 
@@ -38,7 +43,7 @@ It's like Free Photoshop basically, but many people find the UI confusing / diff
 
 Another Photoshop Alternative that runs in the browser. Similar to [PhotoPea](#photopea)
 
-### Canva*
+### Canva\*
 
 [Link](https://www.canva.com/)
 
@@ -60,8 +65,6 @@ Personally, I strongly dislike Canva. The templates are sometimes tacky and obje
 
 **Price:** $22.99 USD (Per Month)
 
-
-
 The tried and true industry-loved editing software. Huge community around it (Plenty of tutorials).
 
 Pairs very well with other Adobe applications, which must be purchased separately or as part of a Creative Cloud subscription.
@@ -74,12 +77,11 @@ The only / main reason I do not recommend this is the cost, but if you're fortun
 
 **OS:** Windows, Mac, iOS (iPad)
 
-**Price:** 
-- ~$59.99 USD (Buy once, own forever) for Windows/Mac, 
-- ~$14.99 USD (Buy once, own forever) for iOS
-- Free Trial is offered
+**Price:**
 
-
+*   ~$59.99 USD (Buy once, own forever) for Windows/Mac,
+*   ~$14.99 USD (Buy once, own forever) for iOS
+*   Free Trial is offered
 
 Popular alternative to Photoshop with similar capabilities and advanced features. Worth looking at the Trial if you're looking to purchase some professional software without being forced into a subscription.
 
@@ -115,4 +117,4 @@ Easy tool to remove backgrounds without any effort. Great for thumbnails and oth
 
 **Price:** FREE (With some limitations)
 
-Easy tool with a variety of features such as background removal and upscaling. 
+Easy tool with a variety of features such as background removal and upscaling.
