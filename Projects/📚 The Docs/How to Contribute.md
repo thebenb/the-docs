@@ -27,7 +27,9 @@ You'll need an account to contribute.
 Once you're signed in, you can either:
 
 *   **Edit files directly in the browser** (great for most people)
+    
 *   **Fork the repo and make changes locally** if you prefer working in your own editor. I'd only suggest this if you know what you're doing.
+    
 
 ### Making a Pull Request
 
@@ -38,10 +40,15 @@ It's a lot like saying: _"Here's what I changed, could you add it to the site?"_
 Steps:
 
 1.  Click "Edit" on the file you want to change (you'll be creating a fork automatically if you don't already have one).
+    
 2.  Make your changes.
+    
 3.  Scroll down and write a short title + optional description describing what you have done.
+    
 4.  Click "Propose changes".
+    
 5.  Open a pull request.
+    
 
 **All changes need to be reviewed and approved** before they go live. This keeps things consistent and avoids surprises. Other than myself (Ben), a very limited set of trusted people will have permission to approve posts.
 
@@ -52,11 +59,17 @@ Please make separate PRs for each proposed change / file. Failure to do so may l
 ## Writing Style
 
 *   Aim for a tone that's **clear, informative, and helpful**.
+    
 *   It should feel **_somewhat_ professional**, some fun and personality is totally fine.
+    
 *   Avoid anything overly aggressive, dismissive, or biased - this is a collaborative space at the end of the day. As much as I personally dislike "twitch clipper repost channels" and such, they still exist and should be acknowledged.
+    
 *   If you're sharing an opinion or an anecdote, **make it obvious** (e.g. "I prefer…" or "In my experience…").
+    
 *   Don't assume that readers are stupid, but keep in mind that they may need things to be explained briefly at times.
+    
 *   Don't rely on AI to write stuff for you. If you by chance use AI to write something, please clearly disclose that like I did with this page.
+    
 
 ## Writing in Markdown
 
@@ -102,27 +115,39 @@ You can use:
 
 :::note
 
-This is a note.
-:::
+This is a note. :::
 
-:::tip 
+:::tip
 
-This is a tip. 
-:::
+This is a tip. :::
 
-:::warning 
+:::warning
 
-This is a warning. 
-:::
+This is a warning. :::
 
-:::danger 
+:::danger
 
-This is a danger. 
-:::
+This is a danger. :::
 
 Use them when you want to highlight something important or make a page easier to scan.
 
-These admonitons are coded in separately to the Markdown renderer, so I can add/remove admonitions as I please. Feel free to contact me if you would like more.
+These admonitions are coded in separately to the Markdown renderer, so I can add/remove admonitions as I please. Feel free to contact me if you would like more.
+
+# Adding media
+
+If you're fancy and would like to insert images, videos, etc. in your submission, please ensure that the media is located within `/media/` in the repo, and linked to appropriately. Below is an example on how to do that in Markdown.
+
+```md
+
+![](/media/your_image.png)
+
+```
+
+GitHub typically doesn't like file submissions over 25MB, and realistically, we shouldn't be subjecting viewers to such big files anyway.
+
+Please try to compress your images to an appropriate size, for both the sake of potential readers and whichever poor little server I run this website on.
+
+Again, if you have concerns or find something too complex / advanced for you, don't worry! I'm happy to handle your submission directly if you email [docs@benb.au](mailto:docs@benb.au) with your suggestions. Submissions handled this way will have the best-practices applied for you, so no need to stress.
 
 * * *
 
