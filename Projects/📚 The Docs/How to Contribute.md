@@ -115,19 +115,23 @@ You can use:
 
 :::note
 
-This is a note. :::
+This is a note. 
+:::
 
 :::tip
 
-This is a tip. :::
+This is a tip. 
+:::
 
 :::warning
 
-This is a warning. :::
+This is a warning. 
+:::
 
 :::danger
 
-This is a danger. :::
+This is a danger. 
+:::
 
 Use them when you want to highlight something important or make a page easier to scan.
 
