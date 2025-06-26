@@ -2,7 +2,7 @@
 title: What to Contribute
 lastModified: 2025-06-26T23:18:00.000Z
 ---
-# What to contribute
+# What to Contribute
 
 The following is a non-final, and **non-limiting** list of ideas I have come up with for pages that either need some improvement, or need to be created in general.
 
