@@ -1,5 +1,6 @@
 ---
-sidebar_position: 3
+title: Contributing
+lastModified: 2025-06-26T23:18:00.000Z
 ---
 # Contributing
 
@@ -17,7 +18,13 @@ In short, if you read something here, I either wrote it myself or agree with it.
 
 If you have any suggestions, please let me know!
 
+## What should I contribute?
+
+If you don't have any suggestions in mind, feel free to check out [this page](what-to-contribute) for ideas.
+
 ## How do I contribute?
+
+See: [This page.](/docs/projects/the-docs/how-to-contribute)
 
 ### The "easy" way
 
