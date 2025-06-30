@@ -82,6 +82,6 @@ Receiving criticism is one of the best ways to learn, especially as a smaller cr
 
 :::tip
 
-Remember: Feedback is only valuable if you use it. Applying advice—even small tweaks—shows you’re serious about improving and makes people more likely to help you again. If you show a consistent pattern of not listening to feedback, you may end up getting completely ignored in the future as you'll be seen both a bad creator and a waste of time.
+Remember: Feedback is only valuable if you use it. Applying advice (even small tweaks!) shows you’re serious about improving and makes people more likely to help you again. If you show a consistent pattern of not listening to feedback, you may end up getting completely ignored in the future as you'll be seen both a bad creator and a waste of time.
 
 :::
