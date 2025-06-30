@@ -1,5 +1,5 @@
 ---
-title: Read me
+title: Read Me!
 ---
 # The docs.
 
