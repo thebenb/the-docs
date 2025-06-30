@@ -1,5 +1,7 @@
 ---
 title: Read Me!
+lastModified: 2025-06-24T00:00:00.000Z
+author: Ben
 ---
 # The docs.
 
