@@ -1,5 +1,5 @@
 ---
-title: Image editing software
+title: Image Editing Software
 ---
 # Image editing software
 

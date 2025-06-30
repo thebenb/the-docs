@@ -57,6 +57,8 @@ Great for beginners, and is probably already installed if you own an Apple Devic
 
 ### Kdenlive
 
+[Link](https://kdenlive.org/)
+
 **OS:** Windows, Mac, Linux
 
 **Price:** FREE (Forever)
@@ -96,6 +98,18 @@ Personally, I'm not a fan of it. It's quite limiting when you want to do more ad
 [Link](https://www.apple.com/imovie/)
 
 Simple and easy to use, and will run on your Apple Mobile Devices. Comes with some stock tracks and effects which are good enough to learn the fundamentals. Powerful enough to make good videos.
+
+### Davinci Resolve (Again)
+
+[Link](https://apps.apple.com/us/app/davinci-resolve-for-ipad/id1581363826)
+
+**OS:** iOS
+
+**Price:** Free (Forever) / $94.99 USD (Buy once, own forever)
+
+Davinci also has a pretty powerful iOS version of the desktop application for mobile. If you have an iPad, it's legitimately a solid option. 
+
+
 
 ## Other Video Editing tools
 

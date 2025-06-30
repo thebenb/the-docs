@@ -37,6 +37,8 @@ We're not your audience either, you should be there to learn stuff and meet peop
 
 ![](/media/Ben%20no%20self%20promo.gif)
 
+Also, for the love of all things lovable, please [don't ask to ask.](/dontasktoask)
+
 ## Asking for Feedback
 
 Receiving criticism is one of the best ways to learn, especially as a smaller creator where your stats aren't always usable. 
