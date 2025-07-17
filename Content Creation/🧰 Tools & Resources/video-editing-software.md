@@ -1,5 +1,7 @@
 ---
 title: Video Editing Software
+lastModified: 2025-07-17T11:54:00.000Z
+author: Ben
 ---
 # Editing Software
 
@@ -75,6 +77,18 @@ Completely Open-Source video editor with capabilities that try to compete with t
 
 Personally, I'm not a fan of it. It's quite limiting when you want to do more advanced stuff, and stops you from learning certain skills after a point.
 
+### ClipChamp
+
+[Link](https://clipchamp.com/en/)
+
+**OS:** Windows
+
+**Price:** FREE (Forever) / ~ $11 USD (Per Month)
+
+It's... alright. It's the modern "Windows Movie Maker" if you're old enough to remember that. Doesn't have any crazy bells and whistles, but it can get the job done. Nothing wrong with using it if you just want something simple, and the free version lets you export watermarkless 1080p, which is more than acceptable. It comes with Windows, it's just "fine", I guess. Inoffensive, it's just kinda there.
+
+I would never suggest paying a cent for it, and would rather use Davinci's free version instead for it's additional capabilities.
+
 ## Mobile Editing Software
 
 ### CapCut (Again)
@@ -107,9 +121,7 @@ Simple and easy to use, and will run on your Apple Mobile Devices. Comes with so
 
 **Price:** Free (Forever) / $94.99 USD (Buy once, own forever)
 
-Davinci also has a pretty powerful iOS version of the desktop application for mobile. If you have an iPad, it's legitimately a solid option. 
-
-
+Davinci also has a pretty powerful iOS version of the desktop application for mobile. If you have an iPad, it's legitimately a solid option.
 
 ## Other Video Editing tools
 
@@ -166,7 +178,11 @@ While trusted by many, I'm not the biggest fan of it (I prefer [Shutter Encoder]
 ## Other Software I'd like some help writing about
 
 *   Vegas Pro
+    
 *   Openshot
+    
 *   Shotcut
+    
 *   Hitfilm
+    
 *   Any other software I haven't mentioned yet in reasonable detail
