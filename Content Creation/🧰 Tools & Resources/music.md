@@ -136,7 +136,7 @@ There's a lot of music on Soundcloud, good and bad. Many artists have put up mus
 
 ### Thematic
 
-[Link](https://app.hellothematic.com/?via=benjamin) | [Non-Ref](https://app.hellothematic.com/) | Use Code "B5LTSHVY" for 10% off your first payment!
+[Link](https://app.hellothematic.com/?via=benjamin) | [Non-Ref](https://app.hellothematic.com/) | Use Code "BENDOCS" for 10% off your first payment!
 
 Overall pretty decent free music site, good variety of tracks but not the best discovery system. Some songs on there aren't permanent and some are "premium". Overall solid source of music and in my experience, are very trustworthy when it comes to not getting claimed.
 
