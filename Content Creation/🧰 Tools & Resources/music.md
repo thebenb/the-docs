@@ -140,6 +140,13 @@ There's a lot of music on Soundcloud, good and bad. Many artists have put up mus
 
 Overall pretty decent free music site, good variety of tracks but not the best discovery system. Some songs on there aren't permanent and some are "premium". Overall solid source of music and in my experience, are very trustworthy when it comes to not getting claimed.
 
+*   Free tracks require attribution.
+    
+*   Signup required
+    
+*   Has some "premium" features here and there, but can be used completely free. (Use my link and discount code if you ever choose to buy it!)
+    
+
 Like many other free services, you must give credit in the description for the track(s) you use. They have a bit of a social media aspect to them, where you listen to and vote on songs to earn "points" that let you download more / certain tracks. Having premium bypasses this, of course.
 
 ## Paid
