@@ -39,6 +39,8 @@ It's like Free Photoshop basically, but many people find the UI confusing / diff
 
 ### Krita
 
+[Link](https://krita.org/)
+
 **OS:** Windows, Mac, Linux
 
 Krita is a very capable professional-level digital painting program aimed at artists. The program is Free and Open-Source (FOSS), and is fairly intuitive to use, even for newbies. Whilst it is not particularly aimed at the kind of image manipulation we typically need when editing thumbnails, it is well and truly capable of producing a well-performing thumbnail. Whether you're using a tablet or a mouse, it's definitely worth trying out.
