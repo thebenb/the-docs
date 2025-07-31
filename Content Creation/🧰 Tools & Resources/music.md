@@ -49,7 +49,7 @@ Unminus offers a selection of high-quality, copyright-free music for commercial 
 *   Perfect for small projects and creators looking for fresh, unique tracks.
     
 
-Unfortunately, I find the track selecting very limiting.
+Unfortunately, I find the track selection very limiting.
 
 ### Bensound
 
