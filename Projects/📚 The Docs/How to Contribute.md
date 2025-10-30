@@ -143,14 +143,18 @@ If you're fancy and would like to insert images, videos, etc. in your submission
 
 ```md
 
-![](/media/your_image.png)
+![](/media/your-image.png)
 ```
 
 GitHub typically doesn't like file submissions over 25MB, and realistically, we shouldn't be subjecting viewers to such big files anyway.
 
-Please try to compress your images to an appropriate size, for both the sake of potential readers and whichever poor little server I run this website on.
+Please try to compress your images to an appropriate size, for both the sake of potential readers and whichever poor little server I run this website on. There is some optimisation in place, but don't rely on it. 
 
 Again, if you have concerns or find something too complex / advanced for you, don't worry! I'm happy to handle your submission directly if you email [docs@benb.au](mailto:docs@benb.au) with your suggestions. Submissions handled this way will have the best-practices applied for you, so no need to stress.
+
+# Naming Conventions
+
+In general, I expect files to be named in lowercase, and without spaces. Dashes "-" are to be used as word dividers. An exception to this are all directories, which should fully named as they expected to be seen, emojis and all. No slashes in any filenames at all though, that causes a mess (Looking at you, mac users!). 
 
 * * *
 
