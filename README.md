@@ -1,6 +1,6 @@
 # The Ben Docs
 
-![](https://status.benb.au/api/badge/18/uptime?labelPrefix=Website+&style=for-the-badge)    ![](https://status.benb.au/api/badge/19/uptime?labelPrefix=API+&style=for-the-badge)
+![](https://status.benb.au/api/badge/7/uptime?labelPrefix=Website+&style=for-the-badge)    ![](https://status.benb.au/api/badge/8/uptime?labelPrefix=API+&style=for-the-badge)
 
 ---
 
