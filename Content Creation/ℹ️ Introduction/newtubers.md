@@ -35,7 +35,7 @@ It's pretty easy. Read the rules, read the FAQ, don't try to sell anything to an
 
 We're not your audience either, you should be there to learn stuff and meet people. If you try to self-promote you'll get scolded and I'll probably pop in to send you this GIF:
 
-![](/media/ben-no-self-promo.gif)
+![](/docs/media/ben-no-self-promo.gif)
 
 Also, for the love of all things lovable, please [don't ask to ask.](/dontasktoask)
 
