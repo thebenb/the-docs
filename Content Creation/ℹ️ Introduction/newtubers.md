@@ -66,7 +66,7 @@ Receiving criticism is one of the best ways to learn, especially as a smaller cr
 
 **Here's an example of a great feedback post:**
 
-![](/media/great-feedback-example.png)
+![](/docs/media/great-feedback-example.png)
 
 ### What to do after getting feedback
 
