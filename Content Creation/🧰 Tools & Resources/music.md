@@ -211,3 +211,24 @@ Lickd offers commercial music licensing for creators, allowing you to use popula
 *   Plans vary based on channel size and track selection.
     
 *   One of the easiest and cost-effective ways to use mainstream music in your videos legally.
+
+
+### Envato
+
+[Link](https://elements.envato.com/audio)
+
+**Price:**
+
+* From $16.50 USD Per Month for Individuals
+* From $37.25 USD Per Month for teams
+* 30% Discount for students
+
+(Thank you to Ephi / @moviemellon for writing this section!)
+
+Envato is great in a way since it falls more into the Motion Array category. It’s not just music, but has stock footage and editing templates as well as images, vectors, etc. 
+
+It’s not really (social media) Content Creator focused, but more targeted towards corporate/marketing people and semi-professionals. 
+
+You can get monthly (solo) plans, or share a team plan with friends for up to 5 people.
+
+Since it’s a broader one-size-fits-all kinda thing, it’s really quite difficult to find music that doesn’t sound too corporate-y, but there’s certainly really good stuff in there. What I like is that it has pretty transparent licensing and you can create projects on site. Meaning, if you are working on a video, you can create a project, skim through music, add titles to that project and then find it more easily in the future. Like "hey, I remember I had this cool song in this video"… instead of going through all of your downloads, you can find it there. This also goes for graphics, images, videos, etc.
